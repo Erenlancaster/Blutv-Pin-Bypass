@@ -1,2 +1,4 @@
 # Blutv-Bypass
-Passing without knowing the password of the pin when the user puts a pin on the blutv site
+
+## TURKISH/TURKCE
+Kullanıcının kullandığı pini bilmeden "Response manipulation" taktiğiyle server-side olan cevabı client-side olarak editleyerek 2-factor'u geçtiğim bir güvenlik açığı.
