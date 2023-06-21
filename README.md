@@ -1,6 +1,5 @@
 # Blutv-Bypass
-
-
+BluTV, 2015 yılında Doğan Holding çatısı altında kurulan, gerçek zamanlı veri akışı ve seç-izle aracılığıyla internet üzerinden hizmet veren bir medya sağlayıcısıdır.
 
 ## TURKISH
 Kullanıcının kullandığı pini bilmeden "Response manipulation" taktiğiyle server-side olan cevabı client-side olarak editleyerek 2-factor'u geçtiğim bir güvenlik açığı.
