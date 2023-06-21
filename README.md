@@ -1,4 +1,4 @@
-# Blutv-Bypass
+# <img src="blutv.png" width="45" align="left"> Blutv-Bypass
 BluTV, 2015 yılında Doğan Holding çatısı altında kurulan, gerçek zamanlı veri akışı ve seç-izle aracılığıyla internet üzerinden hizmet veren bir medya sağlayıcısıdır.
 
 ## TURKISH
