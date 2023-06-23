@@ -6,7 +6,7 @@ Kullanıcının kullandığı pini bilmeden "Response manipulation" taktiğiyle 
 
 Yapmanız Gerekenler
 - Burp'u indirin https://portswigger.net/burp
-- Gifteki adımları takip edin ve bu kodu değiştirdiğiniz koda yapıştırın "{"verified":true,"_status":200,"_status_text":"OK","status":200}"
+- Gifteki adımları takip edin ve bu kodu değiştirdiğiniz koda yapıştırın {"verified":true,"_status":200,"_status_text":"OK","status":200}
 - Artık hesaba erişebilirsiniz
   
 BluTV ile iletişime geçtim fakat herhangi bir dönüş alamadım eğer BluTV'de çalışıyorsanız github sayfamdaki mailden ulaşabilirsiniz.
@@ -16,7 +16,7 @@ It's a vulnerability where I bypass the 2-factor by editing the server-side resp
 
 What you need to do
 - Download Burp https://portswigger.net/burp
-- Follow the steps in the gift and paste this code into the code you changed "{"verified":true,"_status":200,"_status_text":"OK","status":200}"
+- Follow the steps in the gift and paste this code into the code you changed {"verified":true,"_status":200,"_status_text":"OK","status":200}
 - You can now access the account
 
 ![blutv](https://github.com/Erenlancaster/Blutv-Bypass/assets/50498704/af070665-4381-4531-bed6-2d71f71833e3)
